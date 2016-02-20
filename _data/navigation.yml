@@ -3,19 +3,15 @@
 - title: Workshop
   url: /workshop/
   excerpt: "About the DH 2016 workshop."
-  image: 300x200.gif
-
-- title: Participants
-  url: /participants/
-  excerpt: "Workshop leader, facilitators, and participants."
-  image: 300x200.gif
   
 - title: CFP
   url: /cfp/
-  excerpt: "Subit an application to participate in or help facilitate the workshop."
-  image: 300x200.gif
+  excerpt: "Submit an application to participate in or help facilitate the workshop."
+
+- title: Instructors
+  url: /instructors/
+  excerpt: "Workshop instructors."
   
 - title: Schedule
   url: /schedule/
-  excerpt: "Workshop schedule."
-  image: 300x200.gif
+  excerpt: "Workshop schedule coming soon..."
