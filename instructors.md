@@ -21,7 +21,7 @@ Alan coordinates the Digital Scholarship Internship Program at ECDS, and offers 
 
 **Dawn Childress**, Librarian for Digital Collections and Scholarship, UCLA Digital Library Program. 
 
-Dawn oversees the supervision, professional development, and support of graduate students and interns in UCLA’s Digital Library Program. She also participates in project development/management and regularly consults and collaborates with faculty and students on projects related to digital humanities. Her research interests center around digital libraries; digital and analog approaches to bibliography, book history, and archival studies; and digital scholarly editing.
+In addition to her role developing and managing digital projects, Dawn oversees the supervision, professional development, and support of graduate students and interns in UCLA’s Digital Library Program. She also regularly consults and collaborates with faculty and students on projects related to digital humanities. Her research interests center around digital libraries; digital and analog approaches to bibliography, book history, and archival studies; and digital scholarly editing.
 
 **Smiljana Antonijevć**, Research Anthropologist at Penn State University. 
 
