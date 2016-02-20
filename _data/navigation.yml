@@ -1,21 +1,21 @@
 # Site navigation links
 
-- title: Getting Started
-  url: /getting-started/
-  excerpt: "Everything you need to know to get started with Skinny Bones and Jekyll."
-  image: 400x250.gif
+- title: Workshop
+  url: /workshop/
+  excerpt: "About the DH 2016 workshop."
+  image: 300x200.gif
 
-- title: Sample Articles
-  url: /articles/
-  excerpt: "Examples of long form posts."
-  image: 400x250.gif
-
-- title: Media
-  url: /media/
-  excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
-  image: 400x250.gif
-
-- title: About
-  url: /about/
-  excerpt: "All about Skinny Bones for Jekyll."
-  image: 400x250.gif
+- title: Participants
+  url: /participants/
+  excerpt: "Workshop leader, facilitators, and participants."
+  image: 300x200.gif
+  
+- title: CFP
+  url: /cfp/
+  excerpt: "Subit an application to participate in or help facilitate the workshop."
+  image: 300x200.gif
+  
+- title: Schedule
+  url: /schedule/
+  excerpt: "Workshop schedule."
+  image: 300x200.gif
