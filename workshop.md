@@ -17,6 +17,6 @@ Libraries have an increasingly prominent role in the production of digital human
 
 Workshop participants will discuss the benefits, challenges, and best practices for the wide variety of institutional arrangements that result in graduate students doing DH work in libraries and DH organizations today. Additionally, the workshop will produce a white paper that will serve as a resource for institutions hoping to integrate grad students into DH work in the future.
 
-For those interested in participating in the workshop, please see the [CFP](http://dhgradlabor.github.io/dh2016workshop/cfp/)
+For those interested in participating in the workshop, please see the [CFP](http://dhgradlabor.github.io/dh2016workshop/cfp/).
 
 [1] “On Capacity and Care.” Bethany Nowviskie, October 4, 2015. http://nowviskie.org/2015/on-capacity-and-care/.
