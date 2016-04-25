@@ -1,10 +1,10 @@
 ---
 layout: article
-title: "Instructors"
-permalink: /instructors/
+title: "Workshop organizers"
+permalink: /people/
 date: 2016-02-19T09:44:20-04:00
 modified: 2016-02-19T09:44:20-04:00
-excerpt: "Instructors for the DH 2016 workshop on Grad Labor in Libraries."
+excerpt: "Organizers for the DH 2016 workshop on Grad Labor in Libraries."
 image:
   feature:
   teaser:
@@ -12,8 +12,6 @@ image:
 share: false
 ads: false
 ---
-
-Our current workshop instructors include:
 
 **Alan Pike**, Digital Scholarship Training Coordinator, Emory Center for Digital Scholarship, Emory University. 
 
